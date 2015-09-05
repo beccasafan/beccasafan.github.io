@@ -1,0 +1,10 @@
+# Site settings
+title: beccasafan
+description: beccasafan
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://beccasafan.github.io" # the base hostname & protocol for your site
+twitter_username: beccasafan
+tumblr_username:  beccasafan
+
+# Build settings
+markdown: kramdown
